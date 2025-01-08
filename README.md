@@ -26,8 +26,8 @@ Tools and Libraries:
 	2,	MediaPipe: For robust hand and finger landmark detection.
 
 Repository Contents:
-	1,	Jupyter Notebook: The implementation code for the hand detection program, including frame capture, preprocessing, and landmark visualisation.
-	2,	Demo Video: A screen recording demonstrating the program’s real-time functionality.
+		Jupyter Notebook: The implementation code for the hand detection program, including frame capture, preprocessing, and landmark visualisation.
+	
 
 Installation and Requirements:
 	1,	Python Version: Compatible with Python 3.7–3.10.
